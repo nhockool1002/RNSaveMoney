@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Vietcombank",
+    "value": 34883892,
+    "currency_unit": "VND",
+    "createAt": "10-04-19 12:00:17"
+  },
+  {
+    "id": 2,
+    "name": "Payoneer - USD",
+    "value": 75.44,
+    "currency_unit": "USD",
+    "createAt": "10-04-19 12:00:17"
+  },
+  {
+    "id": 3,
+    "name": "Payoneer - EUR",
+    "value": 1.94,
+    "currency_unit": "EUR",
+    "createAt": "10-04-19 12:00:17"
+  },
+  {
+    "id": 4,
+    "name": "TestIO",
+    "value": 151.43,
+    "currency_unit": "EUR",
+    "createAt": "10-04-19 12:00:17"
+  },
+  {
+    "id": 5,
+    "name": "UTest",
+    "value": 89.91,
+    "currency_unit": "USD",
+    "createAt": "10-04-19 12:00:17"
+  }
+]
